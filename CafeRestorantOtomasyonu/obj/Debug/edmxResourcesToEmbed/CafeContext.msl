@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CafeDBModelStoreContainer" CdmEntityContainer="CafeDBEntities">
+    <EntitySetMapping Name="C__MigrationHistory">
+      <EntityTypeMapping TypeName="CafeDBModel.C__MigrationHistory">
+        <MappingFragment StoreEntitySet="__MigrationHistory">
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+          <ScalarProperty Name="ContextKey" ColumnName="ContextKey" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cafes">
+      <EntityTypeMapping TypeName="CafeDBModel.Cafes">
+        <MappingFragment StoreEntitySet="Cafes">
+          <ScalarProperty Name="CafeID" ColumnName="CafeID" />
+          <ScalarProperty Name="TableCount" ColumnName="TableCount" />
+          <ScalarProperty Name="CafeEntry" ColumnName="CafeEntry" />
+          <ScalarProperty Name="CafeLoginKey" ColumnName="CafeLoginKey" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="CafeDBModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="CafeDBModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="ProductCount" ColumnName="ProductCount" />
+          <ScalarProperty Name="Information" ColumnName="Information" />
+          <ScalarProperty Name="isAlive" ColumnName="isAlive" />
+          <ScalarProperty Name="TableNumber" ColumnName="TableNumber" />
+          <ScalarProperty Name="Product_ProductID" ColumnName="Product_ProductID" />
+          <ScalarProperty Name="Receipt_ReceiptID" ColumnName="Receipt_ReceiptID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personals">
+      <EntityTypeMapping TypeName="CafeDBModel.Personals">
+        <MappingFragment StoreEntitySet="Personals">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonalName" ColumnName="PersonalName" />
+          <ScalarProperty Name="PersonalSurname" ColumnName="PersonalSurname" />
+          <ScalarProperty Name="PersonalCell" ColumnName="PersonalCell" />
+          <ScalarProperty Name="PersonalRank" ColumnName="PersonalRank" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="CafeDBModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Category_CategoryID" ColumnName="Category_CategoryID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Receipts">
+      <EntityTypeMapping TypeName="CafeDBModel.Receipts">
+        <MappingFragment StoreEntitySet="Receipts">
+          <ScalarProperty Name="ReceiptID" ColumnName="ReceiptID" />
+          <ScalarProperty Name="Cover" ColumnName="Cover" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="TableNumber" ColumnName="TableNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

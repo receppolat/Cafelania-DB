@@ -1,0 +1,194 @@
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+c:\users\admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form1.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\DESKTOP\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form2.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form1.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form2.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form1.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Form2.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdf.resources
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\26.03.2020 Cafe Otomasyonu\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdf.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\samsung\Desktop\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.giris.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.giris.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdf.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\samsung\Desktop\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe.config
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\CafeRestorantOtomasyonu.pdb
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.CategoryForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.giris.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.LoadingForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.MainForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdf.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.PersonalAndCafeForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.ProductForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.TableForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\NYAT\DataBaseFirst\CafeRestorantOtomasyonu\CafeRestorantOtomasyonu\obj\Debug\CafeRestorantOtomasyonu.pdb

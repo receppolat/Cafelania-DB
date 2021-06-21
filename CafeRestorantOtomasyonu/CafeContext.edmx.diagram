@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ad3485d597c455dba2beeff6602a404" Name="Diagram1" ZoomLevel="114">
+        <EntityTypeShape EntityType="CafeDBModel.C__MigrationHistory" Width="1.5" PointX="11.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Cafes" Width="1.5" PointX="7.875" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Categories" Width="1.5" PointX="1.5" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Orders" Width="1.5" PointX="6.125" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Personals" Width="1.5" PointX="9.625" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Products" Width="1.5" PointX="3.625" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CafeDBModel.Receipts" Width="1.5" PointX="6.125" PointY="4.625" IsExpanded="true" />
+        <AssociationConnector Association="CafeDBModel.FK_dbo_Products_dbo_Categories_Category_CategoryID" ManuallyRouted="false" />
+        <AssociationConnector Association="CafeDBModel.FK_dbo_Orders_dbo_Products_Product_ProductID" ManuallyRouted="false" />
+        <AssociationConnector Association="CafeDBModel.FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

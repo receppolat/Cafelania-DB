@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CafeDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContextKey" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cafes">
+    <Key>
+      <PropertyRef Name="CafeID" />
+    </Key>
+    <Property Name="CafeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TableCount" Type="Int32" Nullable="false" />
+    <Property Name="CafeEntry" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CafeLoginKey" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_dbo_Products_dbo_Categories_Category_CategoryID" FromRole="Categories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductCount" Type="Int32" Nullable="false" />
+    <Property Name="Information" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="isAlive" Type="Boolean" Nullable="false" />
+    <Property Name="TableNumber" Type="Int32" Nullable="false" />
+    <Property Name="Product_ProductID" Type="Int32" />
+    <Property Name="Receipt_ReceiptID" Type="Int32" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_dbo_Orders_dbo_Products_Product_ProductID" FromRole="Orders" ToRole="Products" />
+    <NavigationProperty Name="Receipts" Relationship="Self.FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID" FromRole="Orders" ToRole="Receipts" />
+  </EntityType>
+  <EntityType Name="Personals">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PersonalName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PersonalSurname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PersonalCell" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PersonalRank" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Amount" Type="Single" Nullable="false" />
+    <Property Name="Category_CategoryID" Type="Int32" />
+    <NavigationProperty Name="Categories" Relationship="Self.FK_dbo_Products_dbo_Categories_Category_CategoryID" FromRole="Products" ToRole="Categories" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_dbo_Orders_dbo_Products_Product_ProductID" FromRole="Products" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Receipts">
+    <Key>
+      <PropertyRef Name="ReceiptID" />
+    </Key>
+    <Property Name="ReceiptID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cover" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TotalPrice" Type="Single" Nullable="false" />
+    <Property Name="TableNumber" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID" FromRole="Receipts" ToRole="Orders" />
+  </EntityType>
+  <Association Name="FK_dbo_Products_dbo_Categories_Category_CategoryID">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="CategoryID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Category_CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Orders_dbo_Products_Product_ProductID">
+    <End Role="Products" Type="Self.Products" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="Product_ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID">
+    <End Role="Receipts" Type="Self.Receipts" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Receipts">
+        <PropertyRef Name="ReceiptID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="Receipt_ReceiptID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CafeDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
+    <EntitySet Name="Cafes" EntityType="Self.Cafes" />
+    <EntitySet Name="Categories" EntityType="Self.Categories" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" />
+    <EntitySet Name="Personals" EntityType="Self.Personals" />
+    <EntitySet Name="Products" EntityType="Self.Products" />
+    <EntitySet Name="Receipts" EntityType="Self.Receipts" />
+    <AssociationSet Name="FK_dbo_Products_dbo_Categories_Category_CategoryID" Association="Self.FK_dbo_Products_dbo_Categories_Category_CategoryID">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Orders_dbo_Products_Product_ProductID" Association="Self.FK_dbo_Orders_dbo_Products_Product_ProductID">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID" Association="Self.FK_dbo_Orders_dbo_Receipts_Receipt_ReceiptID">
+      <End Role="Receipts" EntitySet="Receipts" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
